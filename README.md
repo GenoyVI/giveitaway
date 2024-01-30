@@ -10,6 +10,6 @@ added a **third** feature
 
 this is the **fourth** feature
 
-#this is sparta
-##this isn't sparta iwas just playing whats wrong with you?
-###nah it's sparta youve been fooled goteem
+1. this is sparta
+2. this isn't sparta iwas just playing whats wrong with you?
+3. nah it's sparta youve been fooled goteem
